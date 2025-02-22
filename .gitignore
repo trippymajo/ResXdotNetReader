@@ -1,0 +1,12 @@
+#Folders#
+.github/
+.vs/
+bin/
+obj/
+Properties/
+#Configs#
+App.config
+#Files extensions#
+*.user
+*.cache
+*.log
